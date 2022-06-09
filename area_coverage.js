@@ -27,3 +27,5 @@ function areaCoverage(labelDoms){
   let boundingArea = (ymax - ymin) * (xmax - xmin);
   return labelArea / boundingArea;
 }
+
+
